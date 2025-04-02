@@ -52,6 +52,7 @@ This list is a **community-driven effort** and we encourage:
 - [Office Suites](#office-suites)
 - [Web Browsers](#web-browsers)
 - [Video Conferencing](#video-conferencing)
+- [Computers and Hardware](#computers-and-hardware)
 - [Operating Systems](#operating-systems)
 - [E-Commerce](#e-commerce)
 - [Money Transfer](#money-transfer)
@@ -137,10 +138,18 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Whereby** 🇳🇴: Simple, no apps or downloads required. [Website](https://whereby.com)
 - **BigBlueButton** 🇨🇦: Open-source platform for education. [Website](https://bigbluebutton.org)
 
+## Computers and Hardware
+- **Tuxedo Computers** 🇩🇪: Linux tailored computers. [Website](https://www.tuxedocomputers.com/index.php)
+- **MNT Research** 🇩🇪: Open-source and Open-Hardware computers. [Website](https://mntre.com/index.html)
+- **Raspberry PI** 🇬🇧: Single-Board Computer for IoT and low-power computing. [Website](https://www.raspberrypi.com)
+- **Arduino** 🇮🇹: Open-source hardware for electronics and prototyping. [Website](https://www.arduino.cc)
+
 ## Operating Systems
 - **Ubuntu** 🇬🇧: Linux OS for desktops and servers. [Website](https://ubuntu.com)
 - **Debian** 🌐: Open-source Linux distribution. [Website](https://debian.org)
 - **Elementary OS** 🌐: Privacy-focused Linux OS. [Website](https://elementary.io)
+- **Tuxedo OS** 🇩🇪: Ubuntu-base, performance-focused Linux OS. [Website](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo)
+- **openSUSE OS** 🇩🇪: Great Linux OS almost entirely made in Germany. [Website](https://www.opensuse.org)
 
 ## E-Commerce
 - **Zalando** 🇩🇪: Fashion and lifestyle retailer. [Website](https://zalando.com)
