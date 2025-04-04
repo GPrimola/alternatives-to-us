@@ -2,7 +2,7 @@
 
 A collectively curated list of non-US-based alternatives to popular services, because it is time to prioritise our privacy, security, and digital sovereignty.
 
-## 🚨 Did You Know? 
+## 🚨 Did You Know?
 
 🚩 **If you use a US-based service, your private data is NOT yours.**  
 
@@ -140,6 +140,9 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 
 ## Computers and Hardware
 - **Tuxedo Computers** 🇩🇪: Linux tailored computers. [Website](https://www.tuxedocomputers.com/index.php)
+- **Laptop With Linux** 🇳🇱: Laptops and Mini PCs with Linux pre-installed of your choice. [Website](https://laptopwithlinux.com)
+- **SKIKK** 🇳🇱: Laptops and Computers with Linux as an option. [Website](https://www.skikk.eu)
+- **Star Labs Systems** 🇬🇧: Privacy-focused computers with Linux. (Intel Management Engine disabled by default). [Website](https://starlabs.systems)
 - **MNT Research** 🇩🇪: Open-source and Open-Hardware computers. [Website](https://mntre.com/index.html)
 - **Raspberry PI** 🇬🇧: Single-Board Computer for IoT and low-power computing. [Website](https://www.raspberrypi.com)
 - **Arduino** 🇮🇹: Open-source hardware for electronics and prototyping. [Website](https://www.arduino.cc)
@@ -150,6 +153,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Elementary OS** 🌐: Privacy-focused Linux OS. [Website](https://elementary.io)
 - **Tuxedo OS** 🇩🇪: Ubuntu-base, performance-focused Linux OS. [Website](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo)
 - **openSUSE OS** 🇩🇪: Great Linux OS almost entirely made in Germany. [Website](https://www.opensuse.org)
+- **Zorin OS** 🇮🇪: Ubuntu-based Linux Desktop alternative to Windows. [Website](https://zorin.com/os/)
 
 ## E-Commerce
 - **Zalando** 🇩🇪: Fashion and lifestyle retailer. [Website](https://zalando.com)
