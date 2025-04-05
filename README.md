@@ -143,6 +143,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Laptop With Linux** 🇳🇱: Laptops and Mini PCs with Linux pre-installed of your choice. [Website](https://laptopwithlinux.com)
 - **SKIKK** 🇳🇱: Laptops and Computers with Linux as an option. [Website](https://www.skikk.eu)
 - **Star Labs Systems** 🇬🇧: Privacy-focused computers with Linux. (Intel Management Engine disabled by default). [Website](https://starlabs.systems)
+- **NovaCustom** 🇳🇱: Customizable privacy-focused laptops [Website](https://novacustom.com)
 - **MNT Research** 🇩🇪: Open-source and Open-Hardware computers. [Website](https://mntre.com/index.html)
 - **Raspberry PI** 🇬🇧: Single-Board Computer for IoT and low-power computing. [Website](https://www.raspberrypi.com)
 - **Arduino** 🇮🇹: Open-source hardware for electronics and prototyping. [Website](https://www.arduino.cc)
