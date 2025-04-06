@@ -145,6 +145,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Star Labs Systems** 🇬🇧: Privacy-focused computers with Linux. (Intel Management Engine disabled by default). [Website](https://starlabs.systems)
 - **NovaCustom** 🇳🇱: Customizable privacy-focused laptops. [Website](https://novacustom.com)
 - **Slimbook** 🇪🇸: Laptops, PC, servers and more GNU/Linux hardware ecosystem. [Website](https://slimbook.com/en/)
+- **PCSpecialist** 🇩🇪🇳🇱🇬🇧: Laptops, PC, servers and more, usually with Windows but configurable not to include an OS. [Website](https://www.pcspecialist.com)
 - **MNT Research** 🇩🇪: Open-source and Open-Hardware computers. [Website](https://mntre.com/index.html)
 - **Raspberry PI** 🇬🇧: Single-Board Computer for IoT and low-power computing. [Website](https://www.raspberrypi.com)
 - **Arduino** 🇮🇹: Open-source hardware for electronics and prototyping. [Website](https://www.arduino.cc)
